@@ -2,8 +2,8 @@
   "name": "movie",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "6.x"
+   "engines": {
+    "node": "16.x"
   }
   "dependencies": {
     "@emotion/react": "^11.9.3",
